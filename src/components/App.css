@@ -1,0 +1,202 @@
+.vl {
+  border-left: 1px solid grey;
+  height: 500px;
+}
+
+.para{
+
+  font-size: 12px;
+}
+
+.title{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.wrapper{
+  width:100%;
+}
+.text1{
+  width: 49%;
+}
+.text2{
+  width: 49%;
+}
+.view{
+ width:2%;
+}
+
+.inline{
+  display: inline;
+}
+.green{
+
+  color: green;
+}
+
+.white{
+  background-color: skyblue;
+  width: 15%;
+  height: 17%;
+}
+
+.button{
+  background-color: skyblue;
+  border: none;
+  font-size:medium;
+  width: 120px;
+  
+  
+}
+
+.yellow{
+
+  color: white;
+  background-color: orange;
+  border: none;
+  
+}
+
+.yel{
+
+  color: orange;
+  font-size: medium;
+  font-weight:700;
+}
+.watch{
+
+  width: 25%;
+  float: left;
+}
+
+.order{
+  
+  border: none;
+  width: 20%;
+  
+  color: white;
+  background-color: orange;
+
+}
+
+/* ///////////// */
+
+#boot-icon{
+
+  font-size: 10rem; 
+  color: rgb(255, 0, 0);
+}
+
+.user{
+
+  color: white;
+}
+
+.title-image{
+    
+  float: right;
+  width: 20%;
+}
+
+.head{
+
+  float: left;
+}
+
+.tv{
+
+  width: 110%;
+}
+
+.rule{
+
+height: "200px";
+}
+
+.logged-in {
+  color: green;
+}
+
+.logged-out {
+  color: red;
+}
+.time{
+
+  color: red;
+}
+
+.bid-time{
+
+  color: green;
+  display: inline;
+}
+
+.bid{
+
+  display: inline;
+}
+
+.orange{
+
+  color: orangered;
+}
+
+.box-div{
+
+  position: absolute;
+  top: 2px;
+  right: 0px;
+  float: left;
+  width: 40%;
+  height: 40%;
+ 
+  
+}
+
+.box-img{
+  
+  width: 40%;
+  
+}
+
+.text{
+   
+  font-size: small;
+
+}
+
+.right-box{
+
+  float: left;
+}
+
+.express-logo{
+
+  width: 12%;
+}
+
+.name-box{
+
+  position: absolute;
+  top: 230px;
+}
+
+.buy-now{
+
+  position: relative;
+  top: 113%;
+  right: 19%;
+}
+
+.pose{
+
+  position: absolute;
+  top: 380px;
+}
+
+
+
+
